@@ -6,7 +6,7 @@ BLACKMERCHANT MD
   </p>
   
 <p align="center">
-<img src=": [https://files.catbox.moe/s5nuh3.jpg](https://i.imgur.com/4ZbJVke.jpeg)" width="400" height="400"/>
+<img src=": [https://files.catbox.moe/s5nuh3.jpg][(https://i.imgur.com/4ZbJVke.jpeg](https://i.imgur.com/4ZbJVke.jpeg))" width="400" height="400"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BLACKMACHAT+WHATSAPP+BOT" alt="">
